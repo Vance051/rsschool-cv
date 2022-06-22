@@ -35,4 +35,4 @@ const repeatStr = (n, s) => {
 
 ## Languages
 Russian - native
-English - [B2](www.efset.org/cert/2NFGuw)
+English - [B1](www.efset.org/cert/2NFGuw)
