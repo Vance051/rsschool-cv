@@ -37,5 +37,5 @@ const repeatStr = (n, s) => {
 ****
 
 ## Languages
-Russian - native
-English - [B1](www.efset.org/cert/2NFGuw)
++ Russian - native
++ English - [B1](www.efset.org/cert/2NFGuw)
